@@ -2,8 +2,6 @@
 
 * Website | [https://robguilar.com](https://robguilar.com "Visit personal website")
 
-* GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
-
 * Twitter | [https://twitter.com](https://twitter.com/robguilarr "Not available yet")
 
 * LinkedIn | [https://www.linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
