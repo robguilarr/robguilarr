@@ -1,11 +1,17 @@
 ## About the Author
 
-* Website | [https://robguilar.com](https://robguilar.com "Visit personal website")
+- Website | [https://robguilar.com](https://robguilar.com "Visit personal website")
 
-* Twitter | [https://twitter.com](https://twitter.com/robguilarr "Not available yet")
+- Medium | [https://medium.com](https://medium.com/@robguilarr "Visit Medium Profile")
 
-* LinkedIn | [https://www.linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
+- Twitter | [https://twitter.com](https://twitter.com/robguilarr "Visit Twitter Profile")
 
-* DataCamp | [https://www.datacamp.com](https://www.datacamp.com/profile/robguilarr "Visit DataCamp Profile")
+- Facebook | [https://facebook.com](https://www.facebook.com/robguilarr/ "Visit Facebook Profile")
 
-* Kaggle | [https://www.kaggle.com](https://www.kaggle.com/razerhawk "Visit Kaggle Profile")
+- Instagram | [https://instagram.com](https://www.instagram.com/robguilarr/ "Visit Instagram Profile")
+
+- LinkedIn | [https://linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
+
+- Kaggle | [https://kaggle.com](https://www.kaggle.com/razerhawk "Visit Kaggle Profile")
+
+- DataCamp | [https://datacamp.com](https://www.datacamp.com/profile/robguilarr "Visit DataCamp Profile")
