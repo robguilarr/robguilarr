@@ -1,4 +1,4 @@
-## About the Author
+## Author's Contacts, Profiles & Social Media
 
 - Website | [https://robguilar.com](https://robguilar.com "Visit personal website")
 
