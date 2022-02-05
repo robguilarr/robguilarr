@@ -2,7 +2,7 @@
 
 This section intends to work as a portal for the author's most recent posts on each of the platforms, in case you want to follow the content directly, you can go to the contact links below.
 
-- Website | [https://robguilar.com](https://robguilar.com "Visit personal website")
+- GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
 
 - Medium | [https://medium.com](https://medium.com/@robguilarr "Visit Medium Profile")
 
@@ -10,10 +10,10 @@ This section intends to work as a portal for the author's most recent posts on e
 
 - Facebook | [https://facebook.com](https://www.facebook.com/robguilarr/ "Visit Facebook Profile")
 
+- Pinterest | [https://www.pinterest.com](https://www.pinterest.com/robguilarr/ "Visit Pinterest Profile")
+
 - Instagram | [https://instagram.com](https://www.instagram.com/robguilarr/ "Visit Instagram Profile")
 
 - LinkedIn | [https://linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
 
 - DataCamp | [https://datacamp.com](https://www.datacamp.com/profile/robguilarr "Visit DataCamp Profile")
-
-- Calendly | [https://calendly.com](https://calendly.com/robguilarr "Visit Calendly Portal")
