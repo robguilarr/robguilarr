@@ -10,8 +10,6 @@ This section intends to work as a portal for the author's most recent posts on e
 
 - Facebook | [https://facebook.com](https://www.facebook.com/robguilarr/ "Visit Facebook Profile")
 
-- Pinterest | [https://www.pinterest.com](https://www.pinterest.com/robguilarr/ "Visit Pinterest Profile")
-
 - Instagram | [https://instagram.com](https://www.instagram.com/robguilarr/ "Visit Instagram Profile")
 
 - LinkedIn | [https://linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
