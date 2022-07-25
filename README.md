@@ -2,7 +2,7 @@
 
 This section intends to work as a portal for the author's most recent posts on each of the platforms, in case you want to follow the content directly, you can go to the contact links below.
 
-- GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
+- Website | [https://robguilar.com](https://www.robguilar.com "Visit Portfolio Website")
 
 - Medium | [https://medium.com](https://medium.com/@robguilarr "Visit Medium Profile")
 
