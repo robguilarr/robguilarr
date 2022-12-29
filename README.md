@@ -1,4 +1,8 @@
-### Author's Contacts, Profiles & Social Media
+
+
+
+
+### Contacts, Profiles & Social Media
 
 This section intends to work as a portal for the author's most recent posts on each of the platforms, in case you want to follow the content directly, you can go to the contact links below.
 
@@ -13,3 +17,10 @@ This section intends to work as a portal for the author's most recent posts on e
 - Instagram | [https://instagram.com](https://www.instagram.com/robguilarr/ "Visit Instagram Profile")
 
 - Figma | [https://www.figma.com](https://www.figma.com/@robguilarr "Visit Figma Profile")
+
+
+### GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robguilarr&show_icons=true&locale=en" alt="robguilarr GitHub" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact" alt="robguilarr GitHub Top Langs"/></p>
