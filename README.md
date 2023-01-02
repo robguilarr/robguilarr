@@ -40,6 +40,6 @@ This repository is primarily built to showcase the technologies we use to develo
              
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robguilarr&show_icons=true&locale=en" alt="robguilarr GitHub" /></p>
              
-[![robguilarr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=robguilarr&theme=github-compact)](https://github.com/robguilarr)
+[![robguilarr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=robguilarr&theme=github-compact)](https://github.com/robguilarr/robguilarr/blob/main/README.md#github-activity-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact" alt="robguilarr GitHub Top Langs"/></p>
