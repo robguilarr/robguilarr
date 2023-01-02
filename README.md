@@ -2,7 +2,11 @@
 
 **⚠️ Important: Any views, material or statements expressed are mines and not those of my employer**
 
-Hi there! Thanks for visiting my repository. Here you'll find my most recent personal projects, which also are published on my [portfolio website](https://www.robguilar.com/). If you want to contact me, you can find the contact information in the next section.
+Hi there! Thanks for visiting my repository. Here you'll find my most recent personal projects, which also are published on my [portfolio website](https://www.robguilar.com/).
+
+- I'm a Junior Data Analyst with Engineering skills and a self-learning attitude. With experience in consulting, consumer goods, and virtualization technology industries. Who as an add-on has great enthusiasm for the Software Entertainment industry, in how data analytics can improve it as a business, using pre-development analytics, live metrics, and acquisition/retention analysis; for indie markets and big publishers.
+
+If you want to contact me, you can find the contact information in the next section.
 
 - Website | [https://robguilar.com](https://www.robguilar.com "Visit Portfolio Website")
 
@@ -20,6 +24,8 @@ Hi there! Thanks for visiting my repository. Here you'll find my most recent per
 
 ### Tech Stack
 
+This repository is primarily built to showcase the technologies we use to develop our projects, including current and in-progress work.
+
 <p align="left"> <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="kedro" width="30" height="30"/><a/>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/><a/>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/><a/>
@@ -30,9 +36,10 @@ Hi there! Thanks for visiting my repository. Here you'll find my most recent per
            
 ---
 
-### GitHub Activity Graph
-[![robguilarr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=robguilarr&theme=github-compact)](https://github.com/robguilarr)
-
+### GitHub Activity Stats
+             
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robguilarr&show_icons=true&locale=en" alt="robguilarr GitHub" /></p>
+             
+[![robguilarr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=robguilarr&theme=github-compact)](https://github.com/robguilarr)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact" alt="robguilarr GitHub Top Langs"/></p>
