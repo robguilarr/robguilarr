@@ -6,7 +6,7 @@ Hi there! Thanks for visiting my repository. Here you'll find my most recent per
 
 - I'm a Junior Data Analyst with Engineering skills and a self-learning attitude. With experience in consulting, consumer goods, and virtualization technology industries. Who as an add-on has great enthusiasm for the Software Entertainment industry, in how data analytics can improve it as a business, using pre-development analytics, live metrics, and acquisition/retention analysis; for indie markets and big publishers.
 
-If you want to contact me, you can find the contact information in the next section.
+If you want to contact me, you can find more information in the next section.
 
 - Website | [https://robguilar.com](https://www.robguilar.com "Visit Portfolio Website")
 
