@@ -39,10 +39,32 @@ This repository is primarily built to showcase the technologies we use to develo
 ### GitHub Activity Stats
              
 [![robguilarr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=robguilarr&bg_color=0d1117&color=f5f5f5&line=ffffff&point=059eda&area=false&hide_border=true)](https://github.com/robguilarr/robguilarr/blob/main/README.md#github-activity-stats)
-             
-<p></p>
-             
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robguilarr&show_icons=true&locale=en&theme=react" alt="robguilarr GitHub" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact&theme=react" alt="robguilarr GitHub Top Langs"/></p>
 
+<a href="https://github.com/robguilarr">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=robguilarr&show_icons=true&locale=en&theme=react"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=robguilarr&show_icons=true&locale=en&theme=graywhite"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robguilarr&show_icons=true&locale=en" />
+  </picture>
+</a>
+
+<a href="https://github.com/robguilarr">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact&theme=react"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact&theme=graywhite"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact" />
+  </picture>
+</a>
 
