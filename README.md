@@ -44,11 +44,11 @@ This repository is primarily built to showcase the technologies we use to develo
   <picture>
   <source 
     srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=robguilarr&show_icons=true&locale=en&theme=react"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=robguilarr&show_icons=true&locale=en&theme=graywhite"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robguilarr&show_icons=true&locale=en" />
   </picture>
@@ -58,11 +58,11 @@ This repository is primarily built to showcase the technologies we use to develo
   <picture>
   <source 
     srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact&theme=react"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact&theme=graywhite"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact" />
   </picture>
