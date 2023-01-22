@@ -24,7 +24,7 @@ If you want to contact me, you can find more information in the next section.
 
 ### Tech Stack
 
-This repository is primarily built to showcase the technologies we use to develop our projects, including current and in-progress work.
+This repository is primarily built to showcase the technologies I use to develop my projects, including current and in-progress work.
 
 <p align="left"> <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="kedro" width="30" height="30"/><a/>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/><a/>
