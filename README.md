@@ -68,3 +68,13 @@ This repository is primarily built to showcase the technologies I use to develop
   </picture>
 </a>
 
+
+---
+<div>
+  <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/pikachu.png" width="8%" />
+  <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/snorlax.png" width="8%" />
+  <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/lucario.png" width="8%" />
+  <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/rayquaza.png" width="8%" />
+  <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/mewtwo.png" width="8%" />
+</div>             
+             
