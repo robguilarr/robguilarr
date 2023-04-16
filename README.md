@@ -71,7 +71,7 @@ This repository is primarily built to showcase the technologies I use to develop
 
 ---
 <div>
-  <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/pikachu.png" width="8%" />
+  <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/pikachu.png" width="5%" />
   <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/snorlax.png" width="8%" />
   <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/lucario.png" width="8%" />
   <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/rayquaza.png" width="8%" />
