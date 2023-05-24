@@ -38,7 +38,7 @@ This repository is primarily built to showcase the technologies I use to develop
 
 ### GitHub Activity Stats
              
-[![robguilarr github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=robguilarr&bg_color=0d1117&color=f5f5f5&line=ffffff&point=059eda&area=false&hide_border=true)](https://github.com/robguilarr/robguilarr/blob/main/README.md#github-activity-stats)
+[![robguilarr github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robguilarr&bg_color=0d1117&color=f5f5f5&line=ffffff&point=059eda&area=false&hide_border=true)](https://github.com/robguilarr/robguilarr/blob/main/README.md#github-activity-stats)
 
 <a href="https://github.com/robguilarr">
   <picture>
