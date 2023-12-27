@@ -14,8 +14,6 @@ If you want to contact me, you can find more information in the next section.
 
 - GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
 
-- Twitter | [https://twitter.com](https://twitter.com/robguilarr "Visit Twitter Profile")
-
 - Instagram | [https://instagram.com](https://www.instagram.com/robguilarr/ "Visit Instagram Profile")
 
 - Figma | [https://www.figma.com](https://www.figma.com/@robguilarr "Visit Figma Profile")
