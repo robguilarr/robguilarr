@@ -4,7 +4,17 @@
 
 Hi there! Thanks for visiting my repository. Here you'll find my most recent personal projects, which were also published on my [portfolio website](https://www.robguilar.com/).
 
-- Me: I'm a Data Analyst with Engineering skills and a self-learning attitude. With experience in consulting, consumer goods, and virtualization technology industries. Who as an add-on has great enthusiasm for the Software Entertainment industry, in how data analytics can improve it as a business, using pre-development analytics, live metrics, and acquisition/retention analysis; for indie markets and big publishers.
+👨🏼‍💻 About me
+
+As a Data Scientist and Engineer, I specialize in transforming complex data into tangible business outcomes, particularly for the retail and consumer packaged goods sectors.
+
+My expertise lies in deploying advanced analytics algorithms, deep learning solutions, and machine learning approaches.
+
+🚀 Interests
+
+The passion for exploring the convergence of graphics technology platforms and analytics solutions, particularly in areas such as gaming and the metaverse, has been a driving force in my career, as in the coming years this unique intersection will offer numerous innovative solutions that can contribute effectively to a tangible impact.
+
+My journey in this field was initiated some years ago with a self-taught venture into Unity programming, which not only laid the foundation for my technical background but also sparked this deep interest.
 
 If you want to contact me, you can find more information in the next section.
 
