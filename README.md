@@ -24,24 +24,49 @@ If you want to contact me, you can find more information in the next section.
 
 - GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
 
-- Instagram | [https://instagram.com](https://www.instagram.com/robguilarr/ "Visit Instagram Profile")
-
-- Figma | [https://www.figma.com](https://www.figma.com/@robguilarr "Visit Figma Profile")
-
 ---
 
 ### Tech Stack
 
 This repository is primarily built to showcase the technologies I use to develop my projects, including current and in-progress work.
 
-<p align="left"> <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://kedro.org/images/kedro-logo.svg" alt="kedro" width="30" height="30"/><a/>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/><a/>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/><a/>
-     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="airfow" width="30" height="30"/><a/>
-       <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" alt="databricks" width="40" height="40"/><a/>
-         <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="GCP" width="40" height="40"/><a/>
-           <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="Unity" width="35" height="35"/><a/>
-           
+<p align="center" style="display: flex; align-items: center;">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/>
+  </a>
+  <a href="https://kedro.org/" target="_blank" rel="noreferrer">
+    <img src="https://kedro.org/images/kedro-logo.svg" alt="kedro" width="30" height="30"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/>
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
+    <img src="https://assets.nvidiagrid.net/ngc/logos/Cuda.png" alt="nvidia_cuda" width="60" height="34"/>
+  </a>
+  <a href="https://www.nvidia.com/en-us/omniverse/solutions/digital-twins/" target="_blank" rel="noreferrer">
+    <img src="https://docs.omniverse.nvidia.com/dev-guide/latest/_images/nvidia-omniverse-launcher-1024.png" alt="nvidia_omniverse" width="34" height="34"/>
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" alt="databricks" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="GCP" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="Unity" width="35" height="35"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="92" height="33"/>
+  </a>
+  <a href="https://deepmind.google/technologies/gemini/#introduction" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Gemini" width="55" height="20"/>
+  </a>
+  <a href="https://openai.com/blog/openai-api" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="OpenAI" width="92" height="25"/>
+  </a>
+</p>
+
+ 
 ---
 
 ### GitHub Activity Stats
