@@ -41,9 +41,6 @@ This repository is primarily built to showcase the technologies I use to develop
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
     <img src="https://assets.nvidiagrid.net/ngc/logos/Cuda.png" alt="nvidia_cuda" width="60" height="34"/>
   </a>
-  <a href="https://www.nvidia.com/en-us/omniverse/solutions/digital-twins/" target="_blank" rel="noreferrer">
-    <img src="https://docs.omniverse.nvidia.com/dev-guide/latest/_images/nvidia-omniverse-launcher-1024.png" alt="nvidia_omniverse" width="34" height="34"/>
-  </a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
     <img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" alt="databricks" width="40" height="40"/>
   </a>
