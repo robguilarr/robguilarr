@@ -6,15 +6,13 @@ Hi there! Thanks for visiting my repository. Here you'll find my most recent per
 
 👨🏼‍💻 About me
 
-As a Data Scientist and Engineer, I specialize in transforming complex data into tangible business outcomes, particularly for the retail and consumer packaged goods sectors.
-
-My expertise lies in deploying advanced analytics algorithms, deep learning solutions, and machine learning approaches.
+As a Data Scientist within Growth, Marketing and Sales, I've made a significant impact across various commercial sectors, including tech, consumer goods, and retail. Working closely with clients to deliver production-level assets based on advanced analytics algorithms, deep learning, and GenAI RAG systems for scalable E2E solutions.
 
 🚀 Interests
 
-The passion for exploring the convergence of graphics technology platforms and analytics solutions, particularly in areas such as gaming and the metaverse, has been a driving force in my career, as in the coming years this unique intersection will offer numerous innovative solutions that can contribute effectively to a tangible impact.
+I've a lifelong interest in combining gaming growth and AI solutions for digital platforms, with a particular focus on free-to-play mobile gaming and the metaverse.
 
-My journey in this field was initiated some years ago with a self-taught venture into Unity programming, which not only laid the foundation for my technical background but also sparked this deep interest.
+This journey began with a self-taught venture into Unity as a Game Developer when I was young, which sparked my deep interest and laid the foundation for my technical skills in this sector.
 
 If you want to contact me, you can find more information in the next section.
 
