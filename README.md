@@ -24,46 +24,6 @@ If you want to contact me, you can find more information in the next section.
 
 ---
 
-### Tech Stack
-
-This repository is primarily built to showcase the technologies I use to develop my projects, including current and in-progress work.
-
-<p align="center" style="display: flex; align-items: center;">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/>
-  </a>
-  <a href="https://kedro.org/" target="_blank" rel="noreferrer">
-    <img src="https://kedro.org/images/kedro-logo.svg" alt="kedro" width="30" height="30"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/>
-  </a>
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
-    <img src="https://assets.nvidiagrid.net/ngc/logos/Cuda.png" alt="nvidia_cuda" width="60" height="34"/>
-  </a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" alt="databricks" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" alt="GCP" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="Unity" width="35" height="35"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="92" height="33"/>
-  </a>
-  <a href="https://deepmind.google/technologies/gemini/#introduction" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Gemini" width="55" height="20"/>
-  </a>
-  <a href="https://openai.com/blog/openai-api" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="OpenAI" width="92" height="25"/>
-  </a>
-</p>
-
- 
----
-
 ### GitHub Activity Stats
              
 [![robguilarr github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robguilarr&bg_color=0d1117&color=f5f5f5&line=ffffff&point=059eda&area=false&hide_border=true)](https://github.com/robguilarr/robguilarr/blob/main/README.md#github-activity-stats)
@@ -106,4 +66,5 @@ This repository is primarily built to showcase the technologies I use to develop
   <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/mewtwo.png" width="8%" />
 </div>             
              
+
 
