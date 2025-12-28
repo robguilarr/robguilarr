@@ -4,11 +4,11 @@
 
 Hi there! Thanks for visiting my repository. Here you'll find my most recent personal projects, which were also published on my [portfolio website](https://www.robguilar.com/).
 
-👨🏼‍💻 About me
+**About me**
 
 As a Data Scientist within Growth, Marketing and Sales, I've made a significant impact across various commercial sectors, including tech, consumer goods, and retail. Working closely with clients to deliver production-level assets based on advanced analytics algorithms, deep learning, and GenAI RAG systems for scalable E2E solutions.
 
-🚀 Interests
+**Interests**
 
 I've a lifelong interest in combining gaming growth and AI solutions for digital platforms, with a particular focus on free-to-play mobile gaming and the metaverse.
 
@@ -106,3 +106,4 @@ This repository is primarily built to showcase the technologies I use to develop
   <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/mewtwo.png" width="8%" />
 </div>             
              
+
