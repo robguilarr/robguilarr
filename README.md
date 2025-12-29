@@ -42,21 +42,6 @@ If you want to contact me, you can find more information in the next section.
   </picture>
 </a>
 
-<a href="https://github.com/robguilarr">
-  <picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact&theme=react"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact&theme=graywhite"
-    media="(prefers-color-scheme: light)"
-  />
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robguilarr&show_icons=true&locale=en&layout=compact" />
-  </picture>
-</a>
-
-
 ---
 <div>
   <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/pikachu.png" width="5%" />
@@ -66,5 +51,6 @@ If you want to contact me, you can find more information in the next section.
   <img src="https://raw.githubusercontent.com/robguilarr/robguilarr/main/assets/do_not_open/mewtwo.png" width="8%" />
 </div>             
              
+
 
 
